@@ -1,4 +1,6 @@
-<img width='80%' src='https://media4.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=ecf05e47z6xssu0rhtzgll7nxc7pvn3elblrvpnlqiqbyjkj&rid=giphy.gif&ct=g'>
+<p>
+<img width='380px' height='230px' src='https://media4.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=ecf05e47z6xssu0rhtzgll7nxc7pvn3elblrvpnlqiqbyjkj&rid=giphy.gif&ct=g'>
+<img width='380px'height='230px' src='https://giffiles.alphacoders.com/209/209661.gif'></p>
 
 ### Hi there 👋
 
