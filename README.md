@@ -10,7 +10,7 @@
 <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
 <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'></p>
 
-<img width='20px' height='20px' src='https://www.gov.br/observatorio/en/academic-programs/graduate-program-in-geophysics/images/linkedin.png/@@images/4327284e-bb67-4ef3-8c5e-32c63a62677b.png'> https://www.linkedin.com/in/pedro-henrique-cozzati-camillo-3280891a2/
+<img width='20px' height='20px' src='https://www.gov.br/observatorio/en/academic-programs/graduate-program-in-geophysics/images/linkedin.png/@@images/4327284e-bb67-4ef3-8c5e-32c63a62677b.png'> https://www.linkedin.com/in/pedroCozzati/
 
 
 ##Languages & tools
