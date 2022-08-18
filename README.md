@@ -12,6 +12,7 @@
 
 <img width='20px' height='20px' src='https://www.gov.br/observatorio/en/academic-programs/graduate-program-in-geophysics/images/linkedin.png/@@images/4327284e-bb67-4ef3-8c5e-32c63a62677b.png'> https://www.linkedin.com/in/pedrocozzati/
 
+Link para o portfolio (disponível apenas para dispositivos móveis no momento): https://pedrocozzati.github.io/#/
 
 ##Languages & tools
 
