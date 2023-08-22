@@ -12,9 +12,8 @@
 
 
 
-Link para o portfolio (disponível apenas para dispositivos móveis no momento): https://pedrocozzati.github.io/#/
-
-
+Link para o portfolio: https://pedrocozzati.github.io/#/
+Linkedin: https://www.linkedin.com/in/pedrocozzati/
 
   
 
