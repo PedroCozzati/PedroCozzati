@@ -14,10 +14,8 @@
 
 Link para o portfolio (disponível apenas para dispositivos móveis no momento): https://pedrocozzati.github.io/#/
 
-##Languages & tools
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCozzati&theme=radical&count_private=true&hide=makefile)........
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCozzati&theme=radical)
+
   
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PedroCozzati.visitor-badge&left_color=grey&right_color=green) 
