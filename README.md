@@ -10,10 +10,10 @@
 
 
 
-Link para o portfolio: https://pedrocozzati.github.io/#/
+Link para o portfolio: https://pedrocozzati.github.io/#/ <br>
 Linkedin: https://www.linkedin.com/in/pedrocozzati/
 
   
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PedroCozzati.visitor-badge&left_color=grey&right_color=green) 
+
 
