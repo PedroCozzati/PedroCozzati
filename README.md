@@ -2,7 +2,7 @@
 <img width='380px' height='230px' src='https://media4.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=ecf05e47z6xssu0rhtzgll7nxc7pvn3elblrvpnlqiqbyjkj&rid=giphy.gif&ct=g'>
 <img width='380px'height='230px' src='https://giffiles.alphacoders.com/209/209661.gif'></p>
 
-### Bem-vindo 👋
+### Bem-vindo, meu nome é Pedro 👋
 
 Ultimamente tenho estudado diversas tecnologias, sem escolher uma stack específica. 
 
@@ -30,6 +30,8 @@ Frameworks:<br>
 Cloud:<br>
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCozzati&theme=blue-green
 
 
 
