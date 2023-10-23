@@ -30,9 +30,8 @@ Frameworks:<br>
 Cloud:<br>
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<div style="display:flex;flex-direction:row;justify-content:space-around">
+<div style="display:flex;flex-direction:row;justify-content:space-around:padding:20px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCozzati&theme=blue-green"> 
-  <div style="width:10"></div>
 <img src="https://github-readme-stats.vercel.app/api?username=PedroCozzati&theme=blue-green">
 </div>
 
