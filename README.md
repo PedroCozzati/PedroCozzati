@@ -4,7 +4,7 @@
 
 ### Bem-vindo, meu nome é Pedro 👋
 
-Ultimamente tenho estudado diversas tecnologias, sem escolher uma stack específica. 
+Ultimamente tenho estudado diversas tecnologias, mas já tenho conhecimento em desenvolvimento de aplicações WEB com angular e nodejs, aplicações mobile com Flutter, e no momento estou me aprofundando em python voltado para engenharia e análise de dados. 
 
 Banco de dados:<br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
