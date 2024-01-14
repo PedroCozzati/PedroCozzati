@@ -6,6 +6,8 @@
 
 Ultimamente tenho estudado diversas tecnologias, mas já tenho conhecimento em desenvolvimento de aplicações WEB com angular e nodejs, aplicações mobile com Flutter, e no momento estou me aprofundando em python voltado para engenharia e análise de dados. 
 
+Fique a vontade para explorar os repositórios.
+
 Banco de dados:<br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
