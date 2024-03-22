@@ -38,8 +38,8 @@ Cloud:<br>
 
 
 
-<br>
-Link para o portfolio: https://pedrocozzati.github.io/#/ <br>
+<br><br>
+Link para o portfolio: https://pedrocozzati.github.io/#/ <br><br>
 
 Linkedin: https://www.linkedin.com/in/pedrocozzati/
 
