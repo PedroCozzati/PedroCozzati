@@ -9,7 +9,7 @@
 
 #### Fique a vontade para explorar os repositórios, caso queira entrar em contato me siga no linkedin. 
 [![Linkedin: pedrocozzati](https://img.shields.io/badge/-pedrocozzati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrocozzati/)](https://www.linkedin.com/in/pedrocozzati/)
-[![GitHub Pedro Cozzati](https://img.shields.io/github/followers/pedrocozzati?label=follow&style=social)](https://github.com/PedroCozzati)
+[![GitHub Pedro Cozzati](https://img.shields.io/github/followers/PedroCozzati?label=follow&style=social)](https://github.com/PedroCozzati)
 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
