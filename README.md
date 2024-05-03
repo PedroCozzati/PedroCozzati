@@ -4,8 +4,7 @@
 <img width='200px' src='https://github.com/PedroCozzati/PedroCozzati/assets/80106385/c39bbb43-01ef-4f3d-b14d-8bc80c9d4cb2'> 
 
 
-#### Sou desenvolvedor há 3 anos, já trabalhei com desenvolvimento Mobile (Flutter), e com desenvolvimento voltado para a área de dados com Python e SQL. Atualmente estou estudando para conseguir uma vaga júnior na área de dados. 
-#### Também já explorei outras tecnologias como Angular, Java, NestJS, entre outras.
+#### Sou desenvolvedor há 3 anos, já trabalhei com desenvolvimento Mobile (Flutter), e com desenvolvimento voltado para a área de dados com Python e SQL. Também já atuei em projetos utilizando Angular e Typescript.
 
 #### Fique a vontade para explorar os repositórios, caso queira entrar em contato me siga no linkedin. 
 [![Linkedin: pedrocozzati](https://img.shields.io/badge/-pedrocozzati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrocozzati/)](https://www.linkedin.com/in/pedrocozzati/)
